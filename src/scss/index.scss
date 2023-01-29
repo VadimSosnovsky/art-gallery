@@ -1,0 +1,23 @@
+$dark-bg-color: #000;
+$dark-text-color: #fff;
+
+$light-bg-color: #000;
+$light-text-color: #fff;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+  transition: 300ms ease;
+}
+
+body[data-theme='dark'] {
+  color: $dark-text-color;
+  background-color: $dark-bg-color;
+}
+
+body[data-theme='light'] {
+  color: $light-text-color;
+  background-color: $light-bg-color;
+}

@@ -1,0 +1,22 @@
+@mixin section-layout {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-header {
+  &-wrapper {
+    @include section-layout;
+
+    &__logo {
+      width: 64px;
+      height: 64px;
+    }
+
+    &__theme {
+      &_hover:hover {
+        cursor: pointer;
+      }
+    }
+  }
+}

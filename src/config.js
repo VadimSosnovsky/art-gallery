@@ -1,0 +1,13 @@
+export const MAIN_URL = 'https://test-front.framework.team/'
+export const PAINTINGS_PER_PAGE = 12
+export const NAME_PLACEHOLDER = 'Name'
+export const AUTHOR = 'Author'
+export const LOCATION = 'Location'
+export const CREATED = 'Created'
+export const FROM = 'from'
+export const BEFORE = 'before'
+export const DARK = 'dark'
+export const WHITE = 'white'
+export const PAINTINGS = 'paintings'
+export const AUTHORS = 'authors'
+export const LOCATIONS = 'locations'
