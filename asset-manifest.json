@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/art-gallery/static/css/main.b0591c28.css",
+    "main.js": "/art-gallery/static/js/main.6934f410.js",
+    "static/media/logo.svg": "/art-gallery/static/media/logo.341392e0c316e17646ddea30081fb065.svg",
+    "static/media/cross.svg": "/art-gallery/static/media/cross.f7af1d3395b4be55c5d3d1e8d6514655.svg",
+    "index.html": "/art-gallery/index.html",
+    "main.b0591c28.css.map": "/art-gallery/static/css/main.b0591c28.css.map",
+    "main.6934f410.js.map": "/art-gallery/static/js/main.6934f410.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0591c28.css",
+    "static/js/main.6934f410.js"
+  ]
+}
